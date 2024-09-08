@@ -27,24 +27,24 @@ Welcome to the "Guess the Number" project! This is a simple Java-based game wher
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd mini_project_java
+   cd Guess-number-JAVA
    ```
 
 3. **Compile the Code**:
 
    ```bash
-   javac mini_project_java.java
+   javac Guess-number-JAVA.java
    ```
 
 4. **Run the Application**:
 
    ```bash
-   java mini_project_java
+   java Guess-number-JAVA
    ```
 
 ## How to Play
 
-1. **Start the Game**: Run the `mini_project_java` class.
+1. **Start the Game**: Run the `Guess-number-JAVA` class.
 2. **Make a Guess**: Enter your guess when prompted.
 3. **Receive Feedback**: The game will tell you if your guess is too high, too low, or correct.
 4. **Guess Again**: Continue guessing until you find the correct number.
@@ -52,7 +52,7 @@ Welcome to the "Guess the Number" project! This is a simple Java-based game wher
 
 ## Code Overview
 
-- `mini_project_java.java`: Contains the main logic of the game, including random number generation, user input handling, and game flow control.
+- `Guess-number-JAVA.java`: Contains the main logic of the game, including random number generation, user input handling, and game flow control.
 
 ## Example
 
